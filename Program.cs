@@ -26,3 +26,4 @@ Console.WriteLine("+=========================================================+")
 Console.WriteLine($"| Atende pela alcunha de: .........................{nome.ToUpper()} |");
 Console.WriteLine($"| Idade: {idade} ano(s) | Pelagem/Cor: ..................{cor.ToUpper()} |");
 Console.WriteLine("+=========================================================+");
+Console.WriteLine("");
